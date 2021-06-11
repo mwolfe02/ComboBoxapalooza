@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "LargeTable",
+    "Connect": "ODBC;DRIVER=ODBC Driver 17 for SQL Server;SERVER=.;Trusted_Connection=Yes;APP=Microsoft Office;DATABASE=NoLongerSet;",
+    "SourceTableName": "dbo.LargeTable",
+    "Attributes": 536870912,
+    "PrimaryKey": "[NumericValue]"
+  }
+}

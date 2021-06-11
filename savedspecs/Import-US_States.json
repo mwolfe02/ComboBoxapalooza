@@ -1,0 +1,10 @@
+﻿{
+  "Info": {
+    "Class": "clsDbSavedSpec",
+    "Description": "Saved Import/Export Specification"
+  },
+  "Items": {
+    "Name": "Import-US_States",
+    "XML": "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\r\n<ImportExportSpecification Path = \"M:\\OneDrive\\Docs\\NoLongerSet-mjw20\\ComboBoxes\\US_States.xlsx\" xmlns=\"urn:www.microsoft.com/office/access/imexspec\">\r\n     <ImportExcel FirstRowHasNames=\"true\" Destination=\"US_State\" Range=\"Sheet1$\" >\r\n            <Columns PrimaryKey=\"ABBREVIATION\">\r\n                  <Column Name=\"Col1\" FieldName=\"US_STATE\" Indexed=\"YESNODUPLICATES\" SkipColumn=\"false\" DataType=\"Text\" />\r\n                  <Column Name=\"Col2\" FieldName=\"ABBREVIATION\" Indexed=\"NO\" SkipColumn=\"false\" DataType=\"Text\" />\r\n             </Columns>\r\n        </ImportExcel>\r\n</ImportExportSpecification>"
+  }
+}

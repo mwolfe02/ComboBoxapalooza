@@ -1,0 +1,38 @@
+﻿{
+  "Info": {
+    "Class": "clsDbImexSpec",
+    "Description": "Import/Export Specification from MSysIMEXSpecs"
+  },
+  "Items": {
+    "DateDelim": "/",
+    "DateFourDigitYear": false,
+    "DateLeadingZeros": false,
+    "DateOrder": 2,
+    "DecimalPoint": "",
+    "FieldSeparator": "\u0001",
+    "FileType": 0,
+    "SpecName": "1",
+    "SpecType": 0,
+    "StartRow": 1,
+    "TextDelim": "\u0002",
+    "TimeDelim": ":",
+    "Columns": {
+      "ABBREVIATION": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 15,
+        "Width": 13
+      },
+      "US_STATE": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 2,
+        "SkipColumn": false,
+        "Start": 1,
+        "Width": 14
+      }
+    }
+  }
+}

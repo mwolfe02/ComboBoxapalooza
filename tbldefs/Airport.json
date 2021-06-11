@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "Airport",
+    "Connect": ";DATABASE=rel:LargeTableData.accdb",
+    "SourceTableName": "Airport",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[Rank]"
+  }
+}

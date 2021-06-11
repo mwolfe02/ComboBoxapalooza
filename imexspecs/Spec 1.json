@@ -1,0 +1,158 @@
+﻿{
+  "Info": {
+    "Class": "clsDbImexSpec",
+    "Description": "Import/Export Specification from MSysIMEXSpecs"
+  },
+  "Items": {
+    "DateDelim": "/",
+    "DateFourDigitYear": false,
+    "DateLeadingZeros": false,
+    "DateOrder": 2,
+    "DecimalPoint": "",
+    "FieldSeparator": "\u0001",
+    "FileType": 0,
+    "SpecName": "",
+    "SpecType": 0,
+    "StartRow": 1,
+    "TextDelim": "\u0002",
+    "TimeDelim": ":",
+    "Columns": {
+      "2009": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 216,
+        "Width": 11
+      },
+      "2010": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 205,
+        "Width": 11
+      },
+      "2011": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 194,
+        "Width": 11
+      },
+      "2012": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 183,
+        "Width": 11
+      },
+      "2013": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 172,
+        "Width": 11
+      },
+      "2014": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 161,
+        "Width": 11
+      },
+      "2015": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 150,
+        "Width": 11
+      },
+      "2016": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 139,
+        "Width": 11
+      },
+      "2017": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 128,
+        "Width": 11
+      },
+      "2018": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 117,
+        "Width": 11
+      },
+      "2019": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 106,
+        "Width": 11
+      },
+      "2020": {
+        "Attributes": 0,
+        "DataType": 4,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 95,
+        "Width": 11
+      },
+      "Airport": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 6,
+        "Width": 48
+      },
+      "City": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 64,
+        "Width": 25
+      },
+      "IATA_Code": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 1,
+        "SkipColumn": false,
+        "Start": 54,
+        "Width": 10
+      },
+      "Rank": {
+        "Attributes": 0,
+        "DataType": 7,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 1,
+        "Width": 5
+      },
+      "State": {
+        "Attributes": 0,
+        "DataType": 10,
+        "IndexType": 0,
+        "SkipColumn": false,
+        "Start": 89,
+        "Width": 6
+      }
+    }
+  }
+}

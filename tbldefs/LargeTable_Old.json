@@ -1,0 +1,13 @@
+﻿{
+  "Info": {
+    "Class": "clsDbTableDef",
+    "Description": "Linked Table"
+  },
+  "Items": {
+    "Name": "LargeTable_Old",
+    "Connect": ";DATABASE=rel:LargeTableData.accdb",
+    "SourceTableName": "LargeTable",
+    "Attributes": 1073741824,
+    "PrimaryKey": "[NumericValue]"
+  }
+}

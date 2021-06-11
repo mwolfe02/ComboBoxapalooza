@@ -1,0 +1,16 @@
+﻿{
+  "Info": {
+    "Class": "clsDbVbeProject",
+    "Description": "VBE Project"
+  },
+  "Items": {
+    "Name": "ComboBoxapalooza",
+    "Description": "",
+    "FileName": "rel:ComboBoxapalooza.accdb",
+    "HelpFile": "㼿㼿",
+    "HelpContextId": 0,
+    "Mode": 0,
+    "Protection": 0,
+    "Type": 100
+  }
+}

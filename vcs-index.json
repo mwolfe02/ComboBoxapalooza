@@ -1,0 +1,104 @@
+﻿{
+  "Info": {
+    "Class": "clsVCSIndex",
+    "Description": "Version Control System Index"
+  },
+  "Items": {
+    "MergeBuildDate": null,
+    "FullBuildDate": null,
+    "ExportDate": "6/10/2021 7:21:30 PM",
+    "FullExportDate": "6/10/2021 7:21:30 PM",
+    "OptionsHash": "d4bf390",
+    "LastMergedCommit": "",
+    "Components": {
+      "Forms": {
+        "Cascading.bas": {
+          "Hash": "74994d8",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "LoadLargeTable.bas": {
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "MultiFieldLookup.bas": {
+          "Hash": "bb9cd9d",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "OriginalVsEnhanced.bas": {
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "ProgressiveFiltering.bas": {
+          "Hash": "856d49f",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "TargetSize.bas": {
+          "Hash": "856d49f",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        }
+      },
+      "Modules": {
+        "FormFunctions.bas": {
+          "Hash": "7dc6b1f",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "Sandbox.bas": {
+          "Hash": "db7ee2d",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "StringFunctions.bas": {
+          "Hash": "5e32676",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        },
+        "weComboLookup.bas": {
+          "Hash": "c32fd47",
+          "ExportDate": "6/10/2021 7:21:30 PM",
+          "SourceModified": "6/10/2021 7:21:30 PM"
+        }
+      },
+      "Tables": {
+        "Airport.json": {
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        },
+        "LargeTable.json": {
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        },
+        "LargeTable_Old.json": {
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        },
+        "Place.json": {
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        },
+        "US_State.json": {
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        }
+      },
+      "VB Project": {
+        "vbe-project.json": {
+          "Hash": "d6af1f5",
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        }
+      },
+      "VBE References": {
+        "vbe-references.json": {
+          "Hash": "00e5845",
+          "ExportDate": "6/10/2021 7:21:29 PM",
+          "SourceModified": "6/10/2021 7:21:29 PM"
+        }
+      }
+    }
+  }
+}
