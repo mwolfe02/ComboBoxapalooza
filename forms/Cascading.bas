@@ -13,8 +13,8 @@ Begin Form
     Width =9540
     DatasheetFontHeight =11
     ItemSuffix =32
-    Right =25515
-    Bottom =12465
+    Right =14040
+    Bottom =12240
     DatasheetGridlinesColor =15132391
     RecSrcDt = Begin
         0x6aca8af815a8e540
@@ -463,18 +463,6 @@ Option Explicit
 Private StateLookup As New weComboLookup
 Private CountyLookup As New weComboLookup
 Private PlaceLookup As New weComboLookup
-
-Private Sub cbExample_KeyUp(KeyCode As Integer, Shift As Integer)
-    EnterCombo Me.cbExample
-End Sub
-
-Private Sub cbExample_MouseUp(Button As Integer, Shift As Integer, X As Single, Y As Single)
-    EnterCombo Me.cbExample
-End Sub
-
-
-
-
 
 'The Place database table came from here: http://download.geonames.org/export/zip/
 'see: https://stackoverflow.com/a/10484216/154439

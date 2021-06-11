@@ -6,16 +6,16 @@
   "Items": {
     "MergeBuildDate": null,
     "FullBuildDate": null,
-    "ExportDate": "6/10/2021 7:21:30 PM",
+    "ExportDate": "6/10/2021 9:32:11 PM",
     "FullExportDate": "6/10/2021 7:21:30 PM",
     "OptionsHash": "d4bf390",
     "LastMergedCommit": "",
     "Components": {
       "Forms": {
         "Cascading.bas": {
-          "Hash": "74994d8",
-          "ExportDate": "6/10/2021 7:21:30 PM",
-          "SourceModified": "6/10/2021 7:21:30 PM"
+          "Hash": "b1ba84f",
+          "ExportDate": "6/10/2021 9:32:11 PM",
+          "SourceModified": "6/10/2021 9:32:11 PM"
         },
         "LoadLargeTable.bas": {
           "ExportDate": "6/10/2021 7:21:30 PM",
@@ -31,9 +31,9 @@
           "SourceModified": "6/10/2021 7:21:30 PM"
         },
         "ProgressiveFiltering.bas": {
-          "Hash": "856d49f",
-          "ExportDate": "6/10/2021 7:21:30 PM",
-          "SourceModified": "6/10/2021 7:21:30 PM"
+          "Hash": "5fdd2e2",
+          "ExportDate": "6/10/2021 9:32:11 PM",
+          "SourceModified": "6/10/2021 9:32:11 PM"
         },
         "TargetSize.bas": {
           "Hash": "856d49f",
@@ -58,9 +58,9 @@
           "SourceModified": "6/10/2021 7:21:30 PM"
         },
         "weComboLookup.bas": {
-          "Hash": "c32fd47",
-          "ExportDate": "6/10/2021 7:21:30 PM",
-          "SourceModified": "6/10/2021 7:21:30 PM"
+          "Hash": "e007d95",
+          "ExportDate": "6/10/2021 9:32:11 PM",
+          "SourceModified": "6/10/2021 9:32:11 PM"
         }
       },
       "Tables": {
@@ -88,15 +88,15 @@
       "VB Project": {
         "vbe-project.json": {
           "Hash": "d6af1f5",
-          "ExportDate": "6/10/2021 7:21:29 PM",
-          "SourceModified": "6/10/2021 7:21:29 PM"
+          "ExportDate": "6/10/2021 9:32:11 PM",
+          "SourceModified": "6/10/2021 9:29:32 PM"
         }
       },
       "VBE References": {
         "vbe-references.json": {
           "Hash": "00e5845",
-          "ExportDate": "6/10/2021 7:21:29 PM",
-          "SourceModified": "6/10/2021 7:21:29 PM"
+          "ExportDate": "6/10/2021 9:32:11 PM",
+          "SourceModified": "6/10/2021 9:29:32 PM"
         }
       }
     }

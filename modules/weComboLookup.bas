@@ -55,7 +55,7 @@ Private Type RowSrcInfo
     HasFilterPlaceHolder As Boolean
     HasContainsFilterInPlace As Boolean
     SupportsContainsFilter As Boolean
-    SQLString As String
+    SqlString As String
 End Type
 
 '---------------------------------------------------------------------------------------
@@ -102,7 +102,7 @@ Private Property Get FilteredRowSrc(FilterTxt As String) As String
     Debug.Assert rsi.SupportsContainsFilter
     
     Dim SqlBase As String
-    SqlBase = rsi.SQLString  'may not match Ctl.RowSource if GetRowSrcInfo calls itself recursively
+    SqlBase = rsi.SqlString  'may not match Ctl.RowSource if GetRowSrcInfo calls itself recursively
     
     Dim CleanTxt As String
     CleanTxt = Replace(FilterTxt, "*", "[*]")
@@ -125,7 +125,7 @@ End Property
 '
 Private Function GetRowSrcInfo(RowSrc As String) As RowSrcInfo
     Dim rsi As RowSrcInfo
-    rsi.SQLString = RowSrc
+    rsi.SqlString = RowSrc
     rsi.HasFilterPlaceHolder = (InStr(RowSrc, """**""") > 0) Or _
                                (InStr(RowSrc, "'**'") > 0)
 
@@ -251,8 +251,7 @@ End Function
 ' Procedure : Ctl_Enter
 ' Author    : Mike
 ' Date      : 2/17/2015
-' Purpose   : The RowSource may have changed due to external processing, so we do another
-'               check
+' Purpose   : The RowSource may have changed due to external processing, so we do another check
 '---------------------------------------------------------------------------------------
 '
 Private Sub Ctl_Enter()
